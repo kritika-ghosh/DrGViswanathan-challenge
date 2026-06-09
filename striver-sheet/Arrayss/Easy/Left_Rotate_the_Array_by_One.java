@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss.Easy;
 public class Left_Rotate_the_Array_by_One {
     public static void main(String[] args) {
         int[] arr={1,2,3,4,5};

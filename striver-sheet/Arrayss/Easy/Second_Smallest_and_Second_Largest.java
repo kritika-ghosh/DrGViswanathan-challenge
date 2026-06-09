@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss.Easy;
 
 public class Second_Smallest_and_Second_Largest {
     public static void main(String[] args) {

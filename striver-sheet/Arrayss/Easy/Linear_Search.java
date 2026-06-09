@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss.Easy;
 
 public class Linear_Search {
     static int Linearsearch(int[] arr, int k){

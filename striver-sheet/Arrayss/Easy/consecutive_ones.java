@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss.Easy;
 
 public class consecutive_ones {
     public static int consec_ones(int[] a){

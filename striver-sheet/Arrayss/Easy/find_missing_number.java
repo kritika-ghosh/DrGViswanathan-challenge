@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss.Easy;
 
 public class find_missing_number {
     public static int find_missing(int[] a){

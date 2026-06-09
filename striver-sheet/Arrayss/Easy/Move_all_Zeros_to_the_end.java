@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss.Easy;
 
 public class Move_all_Zeros_to_the_end {
     public static void moveZeroes(int[] nums) {

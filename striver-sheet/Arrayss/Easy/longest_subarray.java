@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss.Easy;
 public class longest_subarray {
     public static int[] find_sub(int[] a, int k){
         int sl=0;

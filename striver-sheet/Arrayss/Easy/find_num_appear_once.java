@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss.Easy;
 
 public class find_num_appear_once {
     public static int find(int[] a){

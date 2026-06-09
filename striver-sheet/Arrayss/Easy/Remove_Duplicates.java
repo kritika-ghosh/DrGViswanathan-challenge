@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss.Easy;
 
 public class Remove_Duplicates {
     static int[] remove_duplicates(int[] arr){
