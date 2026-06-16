@@ -1,4 +1,6 @@
 // Definition for a binary tree node.
+
+import java.util.*;
 class TreeNode {
     int val;
     TreeNode left;
@@ -16,7 +18,6 @@ class TreeNode {
         this.right = right;
     }
 }
-
 public class Day6InvertBinaryTree {
     
     // Recursive function to invert the binary tree
