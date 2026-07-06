@@ -19,7 +19,7 @@ public class Day24LowestCommonAncestor {
 
         // If both nodes are smaller than root, LCA must be in the left subtree
         if (p.val < root.val && q.val < root.val) {
-            return lowestCommonAncestor(root.left, p, q);
+            return lowestCommonAnDay25cestor(root.left, p, q);
         }
 
         // If both nodes are greater than root, LCA must be in the right subtree
